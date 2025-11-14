@@ -1,6 +1,7 @@
 package com.fortunebank.config;
 
 import com.fortunebank.model.User;
+
 import com.fortunebank.repository.UserRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
